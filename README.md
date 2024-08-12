@@ -3,7 +3,7 @@
 - ☺️ Eu me chamo Murilo;
 - 🎮 Amo a cultura geek, em especial animes e jogos;
 - 🖥️ Tecnologia é o universo ao qual pertenço;
-- 💪 constância e diciplina fazem parte da minha essência;
+- 💪 constância e disciplina fazem parte da minha essência;
 
 <hr />
 Olá, eu me chamo Murilo e sou _Brasileiro!_ Meu foco principal no **momento** está concentrado no _Front-end_, entretanto tenho em vista novos horizontes no _futuro_ após adquirir uma **base sólida no Front-end.**
