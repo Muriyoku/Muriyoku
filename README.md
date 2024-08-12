@@ -6,6 +6,7 @@
 - 💪 constância e disciplina fazem parte da minha essência;
 
 <hr />
+
 Olá, eu me chamo Murilo e sou _Brasileiro!_ Meu foco principal no **momento** está concentrado no _Front-end_, entretanto tenho em vista novos horizontes no _futuro_ após adquirir uma **base sólida no Front-end.**
 
 Tenho 19 anos e cerca de **1 anos de experiência** no mundo da programação. Minha principal tecnologia é `javaScript/TypeScript`, sendo `next.js` o framework que escolhi
