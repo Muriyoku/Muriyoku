@@ -33,7 +33,7 @@ Minha primeira linha de código foi na engine Godot, onde eu estava tentando cri
 
 No ano de 2023 eu codifiquei mais, criei mais projetos e firmei minha vontade de perseguir na área. Até então eu ainda estava em processo de decisão. Em 2024 eu já iniciei meus estudos ativamente, começando com Typescript pois já tinha a base de Javascript. 
 
-Com muita dificuldade de manter o foco no inicio, decidi mudar meus métodos e persistir mesmo não estando confortável e hoje crio coisas que antes nem imaginaria que conseguia. Após um periódo de reflexão, percebi que a área de tecnologia se tornou um hábito angular. A resilência de lidar com problemas que apareciam no terminal melhorou como eu lido com coisas no dia a dia. A capacidade de abstrair problemas melhorou minha organização e racicínio. 
+Com muita dificuldade de manter o foco no inicio, decidi mudar meus métodos e persistir mesmo não estando confortável e hoje crio coisas que antes nem imaginaria que conseguiria. Após um periódo de reflexão, percebi que a área de tecnologia se tornou um hábito angular. A resilência de lidar com problemas que apareciam no terminal melhorou como eu lido com coisas no dia a dia. A capacidade de abstrair problemas melhorou minha organização e racicínio. 
 
 Ainda tenho uma longa estrada, e sinto que irei pecorre-la até o fim de minha vida mesmo com dificuldade. Afinal, somos infinitos. Sempre há espaço para aprimoramentos. Sempre há oportunidade de aperfeiçoamento. Sempre há um problema para resolver 💻 
 
