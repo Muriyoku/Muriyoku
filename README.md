@@ -1,15 +1,3 @@
-# Seja bem vindo 👋
-
-Seja bem vindo. Aqui você pode encontrar de tudo um pouco, desde pequenos projetos simples até projetos fora do meu escopo das mais variadas escalas, pois sou uma pessoa que gosta muito de testar e criar aplicações independentemente da tecnologia.
-
-Meu foco é no desenvolimento web, criando sites de alto teor com tecnologias de ponta como Next.js e Tailwind.css. Além disso, eu mexo um pouco com Backend atualmente. Meu objetivo no futuro é se tornar um desenvolvedor full-stack. 
-
-Como meu foco é desenvolvimento web, minha principal linguagem é Javascript/Typescript, mas não me prendo a somente estas linguagens. Se tiver de criar algo em Java ou alguma outra tecnologia, assim será feito :smile:
-
-Esto sempre tentando solucionar minhas dores ao a de alguém através do código. Odeio perder tempo, então sempre estou mexendo em algo que me auxiliam no dia a dia. 
-
-Atualmente sem experiência profissional. Enquato não estou atuando, estou me aperfeiçoando não só em hard skills, mas minhas soft skills também. Resilência, constância, determinação e propósito são meus combustível. Persistência leva a excelência. 
-
 # Minhas estatísticas
 
 <a href="https://github.com/Zafkiel45/github-readme-stats">
