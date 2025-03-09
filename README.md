@@ -24,6 +24,3 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jwt,windows,vercel,vscode,prettier)
 
-# Estudando:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart)
