@@ -10,7 +10,7 @@
 
 ## Linguagens:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,sass,react,nextjs,tailwindcss)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript)
 
 ## Pré-processadores para CSS:
 
