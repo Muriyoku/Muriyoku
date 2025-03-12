@@ -8,13 +8,29 @@
 </a>
 
 
-## Front-end Tecnologias:
+## Linguagens:
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,sass,react,nextjs,tailwindcss)
 
-## Back-end Tecnologias:
+## Pré-processadores para CSS:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sequelize,nodejs)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sass)
+
+## Frameworks:
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,tailwindcss)
+
+## Bibliotecas: 
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react)
+
+## ORMs:
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sequelize)
+
+## Runtimes:
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun)
 
 ## Ferramentas para designs:
 
