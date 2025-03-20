@@ -8,35 +8,9 @@
 </a>
 
 
-## Linguagens:
+## tecnologias:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,sass,nextjs,tailwindcss,react,sequelize,nodejs,bun,figma,jwt,windows,vercel,vscode,prettier)
 
-## Pré-processadores para CSS:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sass)
-
-## Frameworks:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,tailwindcss)
-
-## Bibliotecas: 
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react)
-
-## ORMs:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sequelize)
-
-## Runtimes:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun)
-
-## Ferramentas para designs:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma)
-
-## Outras ferramentas:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jwt,windows,vercel,vscode,prettier)
-
+## Aprendendo:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python)
