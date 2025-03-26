@@ -1,10 +1,10 @@
 # Minhas estatísticas
 
 <a href="https://github.com/Zafkiel45/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zafkiel45&show_icons=true&theme=transparent&locale=pt-br" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zafkiel45&show_icons=true&theme=blueberry&locale=pt-br" />
 <a/>
 <a href="https://github.com/Zafkiel45/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zafkiel45&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zafkiel45&show_icons=true&theme=blueberry&layout=compact&langs_count=8&card_width=200" />
 </a>
 
 
