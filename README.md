@@ -11,3 +11,10 @@
 ## tecnologias:
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,sass,nextjs,tailwindcss,react,sequelize,nodejs,bun,figma,jwt,windows,vercel,vscode,prettier)
+
+## Aprendendo 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite)
+
+## Tenho interesse
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)
