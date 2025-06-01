@@ -13,5 +13,5 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,sass,nextjs,tailwindcss,react,nodejs,bun,figma,jwt,windows,vercel,vscode,prettier,astro)
 
 ## Aprendendo 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,rust)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,python)
 
