@@ -16,6 +16,6 @@
 
 ---
 <div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
-  <img height="200" src="https://media1.tenor.com/m/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" alt="illustration" />
-  <img height="200" src="https://media1.tenor.com/m/D0uqUaBmhOsAAAAC/let-him-cook-magic.gif" alt="illustration" />
+  <img height="200" width="200" src="https://media1.tenor.com/m/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" alt="illustration" />
+  <img height="200" width="200" src="https://media1.tenor.com/m/D0uqUaBmhOsAAAAC/let-him-cook-magic.gif" alt="illustration" />
 </div>
