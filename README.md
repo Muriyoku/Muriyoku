@@ -7,12 +7,33 @@
 </div>
 
 
-## Stack:
+## LProgramming anguages:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,typescript,sass,nextjs,tailwindcss,react,nodejs,bun,figma,jwt,windows,vercel,vscode,prettier,astro)
+Some languages I have experiece with. In case of Python, I have only the basic of language from my Data Structure studies. `JavaScript` and `TypeScript` are the languages whose I have more experience with. 
+
+`Rust` and `C` are languages used to study about computer science concepts, but I have some experience with. In future I plan to masterize `Rust` or `C++`.  
+
+I have some basic experiece with `Dart`, but I do not plan to study it after all. 
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,python,rust,c,dart)
+
+## Tools 
+
+Tools used to develop applications. I'm currently focusing on `Bun` runtime. I have many projects with `Node.js`, but its poor support in `TypeScript` make me study more about `Bun`. In the present momento, my operational system is `windows`, but I plan to study about `unix` systems. In addition, I have some basic experience with `powershell` and `bash` files. 
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,bun,nodejs,jwt,windows,vercel)
 
 ## Learning 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,python)
+
+Technologies I'm studying right now. 
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,rust,c,cpp)
+
+## Knowledge
+
+I'm no longer a front-end developer. I'm learning more about web backend development. Currently, I'm focusing deeply on computer science concepts using `Rust` and `C`, and I no longer use any technology below them, though I am familiar with it.
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,sass,nextjs,tailwindcss,react,figma,prettier,astro)
 
 ---
 <div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
