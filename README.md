@@ -7,7 +7,7 @@
 </div>
 
 
-## LProgramming anguages:
+## Programming Languages:
 
 Some languages I have experiece with. In case of Python, I have only the basic of language from my Data Structure studies. `JavaScript` and `TypeScript` are the languages whose I have more experience with. 
 
