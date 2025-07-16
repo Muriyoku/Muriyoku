@@ -33,7 +33,7 @@ Technologies I'm studying right now.
 
 I'm no longer a front-end developer. I'm learning more about web backend development. Currently, I'm focusing deeply on computer science concepts using `Rust` and `C`, and I no longer use any technology below them, though I am familiar with it.
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,sass,nextjs,tailwindcss,react,figma,prettier,astro)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,nextjs,tailwindcss,react,figma,astro)
 
 ---
 <div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
