@@ -1,7 +1,7 @@
 # My Summary
 <div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
   <a href="https://github.com/Muriyoku/convoychat">
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=Muriyoku&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=200" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=Muriyoku&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=200" />
 </a>
 <a href="https://roadmap.sh"><img height="200" src="https://roadmap.sh/card/wide/67096eb6fb4be684db396ab4?variant=dark&roadmaps=computer-science%2Ctypescript%2Cjavascript%2Cbackend" alt="roadmap.sh"/></a>
 </div>
@@ -13,9 +13,7 @@ Some languages I have experiece with. In case of Python, I have only the basic o
 
 `Rust` and `C` are languages used to study about computer science concepts, but I have some experience with. In future I plan to masterize `Rust` or `C++`.  
 
-I have some basic experiece with `Dart`, but I do not plan to study it after all. 
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,python,rust,c,dart)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,rust,c)
 
 ## Tools 
 
@@ -29,11 +27,6 @@ Technologies I'm studying right now.
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,rust,c,cpp)
 
-## Knowledge
-
-I'm no longer a front-end developer. I'm learning more about web backend development. Currently, I'm focusing deeply on computer science concepts using `Rust` and `C`, and I no longer use any technology below them, though I am familiar with it.
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,nextjs,tailwindcss,react,figma,astro)
 
 ---
 <div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
