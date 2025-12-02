@@ -1,7 +1,7 @@
+# Developer Debugging...
 
-<div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
-  <a href="https://github.com/Muriyoku/convoychat">
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=Muriyoku&show_icons=true&theme=black&layout=compact&langs_count=8&card_width=200" />
-</a>
-<a href="https://roadmap.sh"><img height="200" src="https://roadmap.sh/card/wide/67096eb6fb4be684db396ab4?variant=dark&roadmaps=computer-science%2Ctypescript%2Cjavascript%2Cbackend" alt="roadmap.sh"/></a>
-</div>
+Hi, I'm a developer studying about fundamentals concepts like Data Structure, Databases, System and so on... My current technologies are `Rust` and `C` for study purposes. I have experience with `JavaScript`/`TypeScript` too. 
+
+# Technologies I use: 
+
+![database](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![database](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![frameword](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df) ![framework](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![framework](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![language](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![ide](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![ide](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF) ![language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![language](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
